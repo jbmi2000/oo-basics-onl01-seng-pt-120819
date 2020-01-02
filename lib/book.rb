@@ -11,6 +11,6 @@ class Book
   def author=(author)  #=>setter method
     @author = author
   end
-  
+
 
 end
